@@ -1,0 +1,9 @@
+.env
+node_modules
+build/*
+!build/circuits
+cache
+artifacts
+src/types
+.openzeppelin/unknown-*.json
+.vscode/node_modules
